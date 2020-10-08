@@ -25,13 +25,8 @@ you can customize decimal
 
 ### Get current number value and current text value
 
-To get the number value  , use the `currentNumber` property:
 
-```dart
-final num value = currencyFormatter.currentNumber;
-```
-
-To get the number value  , use the `currentNumber` property:
+To get the number value and text value, use the `currentNumber` and `currentText` property:
 
 ```dart
 final num value = currencyFormatter.currentNumber;
