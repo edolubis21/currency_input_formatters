@@ -2,6 +2,13 @@
 
 Currency Text Field Input Formatter for Flutter.
 
+<p align="center">
+  
+![example](https://user-images.githubusercontent.com/59104566/95548683-d0567600-0a2f-11eb-95ff-f1115e5a5dc6.png)
+
+</p>
+
+
 ## Usage
 
 Import the library
